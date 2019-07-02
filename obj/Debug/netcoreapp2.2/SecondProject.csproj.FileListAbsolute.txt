@@ -1,0 +1,14 @@
+C:\Users\Hi\source\repos\SecondProject\SecondProject\bin\Debug\netcoreapp2.2\SecondProject.deps.json
+C:\Users\Hi\source\repos\SecondProject\SecondProject\bin\Debug\netcoreapp2.2\SecondProject.runtimeconfig.json
+C:\Users\Hi\source\repos\SecondProject\SecondProject\bin\Debug\netcoreapp2.2\SecondProject.runtimeconfig.dev.json
+C:\Users\Hi\source\repos\SecondProject\SecondProject\bin\Debug\netcoreapp2.2\SecondProject.dll
+C:\Users\Hi\source\repos\SecondProject\SecondProject\bin\Debug\netcoreapp2.2\SecondProject.pdb
+C:\Users\Hi\source\repos\SecondProject\SecondProject\obj\Debug\netcoreapp2.2\SecondProject.csprojAssemblyReference.cache
+C:\Users\Hi\source\repos\SecondProject\SecondProject\obj\Debug\netcoreapp2.2\SecondProject.csproj.CoreCompileInputs.cache
+C:\Users\Hi\source\repos\SecondProject\SecondProject\obj\Debug\netcoreapp2.2\SecondProject.RazorAssemblyInfo.cache
+C:\Users\Hi\source\repos\SecondProject\SecondProject\obj\Debug\netcoreapp2.2\SecondProject.RazorAssemblyInfo.cs
+C:\Users\Hi\source\repos\SecondProject\SecondProject\obj\Debug\netcoreapp2.2\SecondProject.AssemblyInfoInputs.cache
+C:\Users\Hi\source\repos\SecondProject\SecondProject\obj\Debug\netcoreapp2.2\SecondProject.AssemblyInfo.cs
+C:\Users\Hi\source\repos\SecondProject\SecondProject\obj\Debug\netcoreapp2.2\SecondProject.RazorTargetAssemblyInfo.cache
+C:\Users\Hi\source\repos\SecondProject\SecondProject\obj\Debug\netcoreapp2.2\SecondProject.dll
+C:\Users\Hi\source\repos\SecondProject\SecondProject\obj\Debug\netcoreapp2.2\SecondProject.pdb
